@@ -1,0 +1,12 @@
+{
+    "sites": [
+        {
+            "name": "Kinogo",
+            "path": "http://kinogo.club/"
+        },
+        {
+            "name": "NOW",
+            "path": "http://www.now.ru/"
+        }
+    ]
+}
